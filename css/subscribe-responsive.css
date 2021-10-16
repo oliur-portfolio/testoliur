@@ -1,0 +1,21 @@
+/* SubScribe Page Responsive CSS CODE */
+
+@media (max-width: 767.98px) {
+    .subscribe-page {
+        padding-bottom: 60px;
+    }
+    .subscribe-page .container {
+        padding: 0 30px;
+    }
+    .subscribe-page h1 {
+        font-size: 30px;
+        line-height: 36px;
+        margin-bottom: 20px;
+    }
+    .sub-box {
+        width: 100%;
+    }
+}
+
+
+/* SubScribe Page Responsive CSS CODE */
